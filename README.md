@@ -5,6 +5,7 @@
 Description: Writes temperature and humidity values (DHT11) to a channel on ThingSpeak every 15 seconds.
 
 ### Hardware:
+* DHT11 Sensor
 * ESP8266 board
 
 <p align="center">
