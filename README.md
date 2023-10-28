@@ -35,10 +35,16 @@ As shown in the image below, you can find the charts for uploaded weather data o
 
 <p align="center">
 <picture>
-  <img alt="esp8266 Logo" src="ThingspeakDemo.png" width="50%" hight="50%" >
+  <img alt="esp8266 Logo" src="ThingspeakDemo.png" width="80%" hight="80%" >
 </picture>
 </p>
 
 -----
 
+Watch the implementation of this code on our YouTube channel: https://www.youtube.com/@Roboticxps
 
+To get your own tools by visiting our online store: https://roboticx.ps/
+Follow us on social media:
+
+* Facebook: https://www.facebook.com/Roboticxps
+* Instagram: https://www.instagram.com/roboticx.ps/
